@@ -204,3 +204,21 @@ Table 1: Comparison of OLTP and OLAP systems
 - [Official Google Cloud Certified Professional Cloud Architect Study Guide](https://www.google.tg/books/edition/Official_Google_Cloud_Certified_Professi/MRCyDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover): A comprehensive guide to preparing for the GCP Professional Cloud Architect certification exam, written by Google Cloud experts.
 - [Professional Cloud Architect Certification Guide: A Comprehensive Guide to Design, Manage, and Secure Enterprise-grade GCP Cloud Solutions](https://www.amazon.com/Professional-Cloud-Architect-Certification-enterprise-grade/dp/1838555277): A guide to preparing for the GCP Professional Cloud Architect certification exam, covering topics such as GCP architecture, security, networking, data management, etc.
 - From PCA exam perspective, it’s worth to read chapters 2, 6, 8 and 17 (1st half) from [Google SRE book](https://sre.google/sre-book/table-of-contents/)
+
+## Overview
+
+This repository contains project code and supporting assets. It is maintained actively with periodic updates.
+
+## Getting Started
+
+1. Clone this repository.
+2. Install dependencies as documented in the project files.
+3. Run/build using the project-specific commands.
+
+## Repository Structure
+
+Key source code, configuration, and documentation are organized by folders at the repository root.
+
+## Contribution Guidelines
+
+Please open an issue for major changes and submit focused pull requests with clear descriptions.
